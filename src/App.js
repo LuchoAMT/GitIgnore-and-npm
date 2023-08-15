@@ -1,1 +1,1 @@
-alert("Hola desde Javascript");
+confirm("Hola desde Javascript");
